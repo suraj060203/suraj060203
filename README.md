@@ -7,7 +7,7 @@
 <h2 align="center">🌱 I’m Full Stack Developer</h2>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/suraj0603) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suraj06022003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj0603) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suraj06022003@gmail.com)
 ###
 
 <!-- <div align="center">
